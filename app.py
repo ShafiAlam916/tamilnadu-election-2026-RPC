@@ -348,7 +348,7 @@ with tab_summary:
     with c3:
         st.metric(label="AIADMK Seats Won", value="47", delta="-19 seats", delta_color="inverse")
     with c4:
-        st.metric(label="Seats Flipped (2026)", value="135", delta="57.69% of state", delta_color="normal")
+        st.metric(label="Seats Flipped (2026)", value="163", delta="69.7% of state", delta_color="normal")
 
     st.markdown("---")
     
