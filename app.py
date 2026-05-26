@@ -312,7 +312,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("### Quick Statistics (2026)")
 st.sidebar.metric("Total Seats", "234", help="Total Assembly Constituencies in Tamil Nadu")
 st.sidebar.metric("Average Turnout", "86.07%", "+12.70pp")
-st.sidebar.metric("Flipped Seats", "135", "57.7% of total")
+st.sidebar.metric("Flipped Seats", "163", "69.7% of total")
 
 # ──────────────────────────────────────────────────────────────────────────────
 # MAIN HEADER
