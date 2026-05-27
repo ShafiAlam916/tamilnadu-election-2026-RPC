@@ -48,7 +48,7 @@ ac_number,constituency,district,region,reserved
 47,Vaniayambadi,Vellore,North,GEN
 48,Ambur,Vellore,North,GEN
 49,Jolarpet,Vellore,North,GEN
-50,Tiruppattur,Vellore,North,GEN
+50,Tiruppattur(AC-50),Vellore,North,GEN
 51,Uthangarai,Krishnagiri,North,SC
 52,Bargur,Krishnagiri,North,GEN
 53,Krishnagiri,Krishnagiri,North,GEN
@@ -183,7 +183,7 @@ ac_number,constituency,district,region,reserved
 182,Alangudi,Pudukkottai,Delta,GEN
 183,Arantangi,Pudukkottai,Delta,GEN
 184,Karaikudi,Sivaganga,South,GEN
-185,Tiruppattur,Sivaganga,South,GEN
+185,Tiruppattur(AC-185),Sivaganga,South,GEN
 186,Sivaganga,Sivaganga,South,GEN
 187,Manamadurai,Sivaganga,South,SC
 188,Melur,Madurai,South,GEN
