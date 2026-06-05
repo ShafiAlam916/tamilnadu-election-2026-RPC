@@ -32,7 +32,7 @@ An interactive data dashboard built with **Streamlit** and **Plotly** to analyse
 ## 🗂️ Data Sources
 
 - `constituency_master.csv`, `tn_2021_results.csv`, `tn_2026_results.csv` — provided as part of the challenge dataset
-- `tn_2026_electors.csv` — independently collected to enable turnout percentage calculations (votes polled / total electors × 100)
+- `tn_2026_electors.csv` — independently collected from ECI to enable turnout percentage calculations 
 
 ---
 
